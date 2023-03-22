@@ -1,0 +1,16 @@
+ORDER_ID,ORDER_DATE,SHIP_ADDRESS,SHIP_CITY,CURRENCY_ID,PAYMENT_TYPE,SHIP_POSTAL_CODE,SUMMARY_PAID,STORE_ID
+1,8/16/2022,45 Corben Pass,Mossel Bay,1,jcb,939-1351,100,1
+2,7/24/2022,0 Center Court,Al Jawf,2,visa,157305,424,2
+3,8/30/2022,2699 Dayton Lane,Manturovo,3,visa-electron,1110,80,3
+4,10/31/2022,179 Barby Terrace,Tayabo,4,jcb,30204,65,4
+5,4/20/2022,43 Roxbury Lane,Cartagena,5,americanexpress,629309,230,5
+6,1/7/2023,Bellgrove Road,La Poma,6,jcb,77544 CEDEX,210,6
+7,7/1/2022,7117 Schurz Court,Novyy Urengoy,7,jcb,64-970,190,7
+8,6/25/2022,8 Hoepker Avenue,Siliana,8,laser,6511,340,8
+9,3/1/2023,4298 Kim Drive,Marte,9, maestro,20000-000,50,9
+10,6/10/2022,46 Schlimgen Road,Maojiadian,10,jcb,55550-000,40,10
+11,4/12/2022,68626 Mendota Parkway,Serrinha,11,mastercard,05-080,60,11
+12,9/17/2022,2 Forest Dale Terrace,,12,mastercard,4415,120,12
+13,9/20/2022,487 Sage Crossing,Modosinal,13,jcb,78975-000,125,13
+14,10/19/2022,6 Columbus Alley,Beopwon,14,maestro,59258-000,380,14
+15,8/22/2022,34 Vidon Avenue,Newton,15,bankcard,629309,140,15
